@@ -1,0 +1,32 @@
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\bin\Debug\App.xbf
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\bin\Debug\Brain Booster.WindowsPhone.xr.xml
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\bin\Debug\Brain Booster.WindowsPhone.exe
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\bin\Debug\Brain Booster.WindowsPhone.pdb
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\bin\Debug\resources.pri
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\bin\Debug\Brain Booster.WindowsPhone.build.appxrecipe
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\App.xaml
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\App.xbf
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\Brain Booster.WindowsPhone.exe
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\Brain Booster.WindowsPhone.pdb
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\YEHOSHUVA k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.WindowsPhone\obj\Debug\ProjectArchitectures.txt

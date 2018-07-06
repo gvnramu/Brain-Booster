@@ -1,0 +1,74 @@
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\App.xbf
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\MainPage.xbf
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\Brain Booster.Windows.xr.xml
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\Brain Booster.Windows.exe
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\Brain Booster.Windows.pdb
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\resources.pri
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\AppxManifest.xml
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\Brain Booster.Windows.build.appxrecipe
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\App.g.i.cs
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\App.g.cs
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MainPage.g.cs
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\App.xaml
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MainPage.xaml
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\App.xbf
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MainPage.xbf
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\Brain Booster.Windows.exe
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\Brain Booster.Windows.pdb
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\priconfig.xml
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\layout.resfiles
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\resources.resfiles
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\pri.resfiles
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\qualifiers.txt
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\ProjectArchitectures.txt
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\PG_colorPanic.xbf
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\PG_colorPanic.g.i.cs
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\PG_colorPanic.g.cs
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\PG_colorPanic.xaml
+c:\users\yehoshuva k\documents\visual studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\PG_colorPanic.xbf
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\App.xbf
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\MainPage.xbf
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\PG_colorPanic.xbf
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\Brain Booster.Windows.xr.xml
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\Brain Booster.Windows.exe
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\Brain Booster.Windows.pdb
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\resources.pri
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\AppxManifest.xml
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\bin\Debug\Brain Booster.Windows.build.appxrecipe
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\App.g.i.cs
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\App.g.cs
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MainPage.g.i.cs
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MainPage.g.cs
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\PG_colorPanic.g.i.cs
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\PG_colorPanic.g.cs
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\App.xaml
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MainPage.xaml
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\PG_colorPanic.xaml
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\App.xbf
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MainPage.xbf
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\PG_colorPanic.xbf
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\Brain Booster.Windows.exe
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\Brain Booster.Windows.pdb
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\priconfig.xml
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\priconfig.xml.intermediate
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\layout.resfiles
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\layout.resfiles.intermediate
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\resources.resfiles
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\resources.resfiles.intermediate
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\pri.resfiles
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\pri.resfiles.intermediate
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\qualifiers.txt
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\User-Data\Documents\Visual Studio 2015\Projects\Brain Booster\Brain Booster\Brain Booster.Windows\obj\Debug\ProjectArchitectures.txt
